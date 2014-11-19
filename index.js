@@ -1,8 +1,8 @@
 
 /**
  * @name tutorial
- * @part getting-started
- * @desc 1. Getting started
+ * @part creating-void
+ * @desc 2. Creating void
  */
 
 export function dsp(t) {
