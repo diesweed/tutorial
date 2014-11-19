@@ -1,7 +1,8 @@
 
 /**
  * @name tutorial
- * @part 1. Getting started
+ * @part getting-started
+ * @desc 1. Getting started
  */
 
 export function dsp(t) {
