@@ -1,10 +1,10 @@
 
 /**
  * @name tutorial
- * @part getting-started
- * @desc 1. Getting started
+ * @part creating-void
+ * @desc 2. Creating void
  */
 
 export function dsp(t) {
-  return 0;
+  return Math.sin(440 * t * Math.PI * 2) * 0.1;
 }
