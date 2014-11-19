@@ -6,5 +6,5 @@
  */
 
 export function dsp(t) {
-  return 0;
+  return Math.sin(440 * t * Math.PI * 2) * 0.1;
 }
